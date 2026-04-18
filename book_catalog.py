@@ -6,7 +6,7 @@ class Book:
     title: str
     author: str
     genre: str
-    year_published: int
+    yearPublished: int
         
 BOOKS = [
     Book("978-3-16-148410-0", "The Great Gatsby", "F. Scott Fitzgerald", "Fiction", 1925),
